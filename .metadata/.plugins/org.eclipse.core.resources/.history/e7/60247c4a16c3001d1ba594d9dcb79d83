@@ -1,0 +1,15 @@
+package chap03_exem;
+
+import java.util.Scanner;
+
+public class ex6_rsp {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		
+		String s1 = in.next();
+		
+		System.out.println(s1);
+	}
+
+}

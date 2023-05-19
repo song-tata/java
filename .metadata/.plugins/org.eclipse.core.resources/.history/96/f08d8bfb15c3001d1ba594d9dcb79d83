@@ -1,0 +1,21 @@
+package chap03_exem;
+
+import java.util.Scanner;
+
+public class ex6_RspGame {
+
+	public static void main(String[] args) {
+		
+		
+		Scanner in = new Scanner(System.in);
+		
+		
+		
+		String s1 = in.next();
+		System.out.println("영희: ");
+		String s2 = in.next();
+		
+		System.out.printf(s1);
+	}
+
+}
